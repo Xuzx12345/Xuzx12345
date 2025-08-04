@@ -3,8 +3,8 @@
 ### 你好
 
 <div align="left">
-<img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=s-lightning&amp&hide=contribs,prs;show_icons=true" height="157px" weight="200px"/>
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-lightning&amp;layout=compact" height="157px"/>
+<img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Xuzx12345&amp&hide=contribs,prs;show_icons=true" height="157px" weight="200px"/>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xuzx12345&amp;layout=compact" height="157px"/>
 </div>
 
 - 🔭 I’m currently working on nothing 😆
