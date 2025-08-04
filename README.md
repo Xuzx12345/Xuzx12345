@@ -1,16 +1,24 @@
 ## Hi there 👋
 
+### 你好
+
+<div align="left">
+<img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=s-lightning&amp&hide=contribs,prs;show_icons=true" height="157px" weight="200px"/>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-lightning&amp;layout=compact" height="157px"/>
+</div>
+
+- 🔭 I’m currently working on nothing 😆
+- 🌱 我正在学习制作编程语言
 <!--
-**Xuzx12345/Xuzx12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-->
+- 📫 如何联系我：
+  - <img src="https://github.com/favicon.ico" height="16px"> github：https://github.com/Xuzx12345
+  - <img src="https://shequ.codemao.cn/favicon.ico" height="16px"> 编程猫：https://shequ.codemao.cn/user/11138838
+<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
