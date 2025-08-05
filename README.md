@@ -7,7 +7,7 @@
 </div>
 
 - 🔭 I’m currently working on nothing 😆
-- 🌱 我正在学习制作编程语言
+- 🌱 我正在学习各种编程语言
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
