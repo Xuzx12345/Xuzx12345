@@ -3,7 +3,7 @@
 ### 你好
 
 <div align="left">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Xuzx_Ricky&show_icons=true&count_private=false&theme=vue-dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Xuzx-Ricky&show_icons=true&count_private=false&theme=vue-dark" />
 </div>
 
 - 🔭 I’m currently working on nothing 😆
