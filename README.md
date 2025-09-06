@@ -18,7 +18,6 @@
   - <img src="https://shequ.codemao.cn/favicon.ico" height="16px"> 编程猫：https://shequ.codemao.cn/user/11138838
   - <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/ef/c2/50efc215-a8c3-73cf-031c-1878697761a1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/460x0w.webp" height="16px"> 盒子IM：Xuzx123(11138838)https://www.boxim.online/
 
-<sub>*如无特殊说明，本人所有仓库均在 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 许可协议下提供。*</sub>
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
